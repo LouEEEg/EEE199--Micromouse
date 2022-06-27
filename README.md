@@ -34,10 +34,7 @@ Future goals I am working toward include:
    | M3-5 Screw | Fasteners | 19 |
    | Z2 10mmx15mmx4mm Bearing | Wheel bearings | 8 | 
    
-  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtube.com/shorts/qSRAssMJCGc?feature=share))
-
-https://youtube.com/shorts/qSRAssMJCGc?feature=share
+  <iframe width="375" height="667" src="https://www.youtube.com/embed/qSRAssMJCGc" title="Overhead Navigation Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion 
 Thanks for reading. 
