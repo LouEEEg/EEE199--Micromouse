@@ -1,6 +1,6 @@
 /*
  * Louis Kraft
- * EEE199 - Motor Control Program
+ * EEE199 - Navigation Control Program
  * 
 */
 
