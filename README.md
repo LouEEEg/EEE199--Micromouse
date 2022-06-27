@@ -35,6 +35,7 @@ Future goals I am working toward include:
    | Z2 10mmx15mmx4mm Bearing | Wheel bearings | 8 | 
    
   
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
 ## Conclusion 
