@@ -34,12 +34,11 @@ Future goals I am working toward include:
    | M3-0.5 Insert | Fasteners | 18 |
    | M3-5 Screw | Fasteners | 19 |
    | Z2 10mmx15mmx4mm Bearing | Wheel bearings | 8 | 
+   
+[![Video of the Robot Navigating the Maze](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/qSRAssMJCGc)
 
-<a href="https://youtu.be/qSRAssMJCGc" target="_blank"><img src="https://github.com/Lou-ee/EEE199--Micromouse/blob/4e87c7c9ab2f42eb4c68e29d1ecec9d01d1b8cc7/Images/Screen%20Shot%202022-06-26%20at%206.00.36%20PM.png
-" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-https://youtu.be/qSRAssMJCGc
+
 
 ## Conclusion 
 Thanks for reading. 
