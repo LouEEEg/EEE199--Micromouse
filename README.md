@@ -1,5 +1,6 @@
 # EEE199-Micromouse
 
+![alt text](https://github.com/Lou-ee/EEE199-Micromouse/blob/664928c33c5554a04527141b379b397112fc4d35/Images/IMG_0401.jpeg "EEE199-Micromouse")
 
 ## Overview
 EEE199-Micromouse is an ongoing independent project featuring an autonomous differential drive robot. Begining as a standard IEEE competition Micromouse, the project has evolved into its current state as a learning tool for robot navigation using machine vision. The robot currently relies on a remote mounted overhead camera to provide cartesian coordinates and trajectory generation. Images are captured with a Raspberry Pi & Pi-Cam and processed in MATLAB. The  trajectory data is sent to the robot using BLE. 
@@ -33,8 +34,8 @@ Future goals I am working toward include:
    | M3-0.5 Insert | Fasteners | 18 |
    | M3-5 Screw | Fasteners | 19 |
    | Z2 10mmx15mmx4mm Bearing | Wheel bearings | 8 | 
-   
-  <iframe width="375" height="667" src="https://www.youtube.com/embed/qSRAssMJCGc" title="Overhead Navigation Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  <a href="https://youtu.be/qSRAssMJCGc" target="_blank"><imgsrc="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Conclusion 
 Thanks for reading. 
