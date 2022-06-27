@@ -35,8 +35,9 @@ Future goals I am working toward include:
    | M3-5 Screw | Fasteners | 19 |
    | Z2 10mmx15mmx4mm Bearing | Wheel bearings | 8 | 
 
-  <a href="https://youtu.be/qSRAssMJCGc" target="_blank"><imgsrc="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-  
+<a href="https://youtu.be/qSRAssMJCGc" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 https://youtu.be/qSRAssMJCGc
 
 ## Conclusion 
