@@ -23,6 +23,9 @@ Future goals I am working toward include:
 
    The robot is a four wheel, dual motor, differential drive robot. Modeling and design was completed in Fusion 360 and 3D printed with PETG on an Ender 3 pro running Klipper/ Octoprint. 
 
+![MicroMouse](https://github.com/Lou-ee/EEE199--Micromouse/blob/e7db04d1f170ffef34a7609a15892aa0f72debba/Images/3D_Model.png "EEE199-Micromouse")
+
+
    ##### BOL
    |  Part |  Use | Qty  |
    | :---: | :---:|:---: |
