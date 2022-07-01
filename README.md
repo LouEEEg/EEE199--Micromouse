@@ -39,13 +39,16 @@ Future goals I am working toward include:
    
 #### Navigation Algorithm
    
+#### Machine Vision 
+
+#### Path Generation
+
+#### Trajectory Following
 
    
 ## Video Demo
 
 https://youtu.be/qSRAssMJCGc
-
-
 
 
 ## Conclusion 
