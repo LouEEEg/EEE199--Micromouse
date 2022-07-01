@@ -23,23 +23,24 @@ Future goals I am working toward include:
 
    The robot is a four wheel, dual motor, differential drive robot. Modeling and design was completed in Fusion 360 and 3D printed with PETG on an Ender 3 pro running Klipper/ Octoprint. 
 
-![MicroMouse](https://github.com/Lou-ee/EEE199--Micromouse/blob/e7db04d1f170ffef34a7609a15892aa0f72debba/Images/3D_Model.png =800x800)
+<img src="https://github.com/Lou-ee/EEE199--Micromouse/blob/e7db04d1f170ffef34a7609a15892aa0f72debba/Images/3D_Model.png" width="625" height="500">
 
 
-   ##### BOL
+#### Main Components
    |  Part |  Use | Qty  |
    | :---: | :---:|:---: |
-   | GP2Y0A51SK0F infrared sensor | Range perception for mapping and object detection | 5 |
+   | GP2Y0A51SK0F infrared sensor | Range perception for mapping, object detection & avoidance | 5 |
    | ESP 32 | Robot Controller: PID controller, BLE, I/O data processing | 1 |
    | BNO055 IMU | Robot orientation | 1 |
    | AS5048B Encoders | Wheel position feedback, odometry | 2 | 
-   | MP1584EN Buck Converter| 7.4V -> 3.3V voltage converter | 1 |
-   | Silicone Tube 25mmx31mm| Tires | 10 cm |
-   | M3-0.5 Insert | Fasteners | 18 |
-   | M3-5 Screw | Fasteners | 19 |
-   | Z2 10mmx15mmx4mm Bearing | Wheel bearings | 8 | 
-  
+   | Raspberry Pi 3B+ | Image Capture & BLE | 1 |
 
+#### Data Flow
+   
+#### Navigation Algorithm
+   
+
+   
 ## Video Demo
 
 https://youtu.be/qSRAssMJCGc
