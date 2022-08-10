@@ -36,9 +36,14 @@ Future goals I am working toward include:
    | Raspberry Pi 3B+ | Image Capture & BLE | 1 |
 
 #### Data Flow
+
+<img src="https://github.com/Lou-ee/EEE199--Micromouse/blob/2483e82bbe608f3d427465cd6741989928ad0a47/Images/Data_Path.png">
    
 #### Navigation Algorithm
-   
+
+
+<img src="https://github.com/Lou-ee/EEE199--Micromouse/blob/2483e82bbe608f3d427465cd6741989928ad0a47/Images/Algo_Main.png">
+
 #### Machine Vision 
 
 #### Path Generation
