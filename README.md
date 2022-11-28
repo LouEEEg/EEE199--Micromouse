@@ -52,6 +52,7 @@ Future goals I am working toward include:
 
    
 ## Video Demo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qSRAssMJCGc/0.jpg)](https://youtu.be/qSRAssMJCGc)
 
 https://youtu.be/qSRAssMJCGc
 
